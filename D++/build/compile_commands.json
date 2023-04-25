@@ -1,0 +1,77 @@
+[
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Draws.cpp.obj -c D:\\Work_place\\D++\\src\\Draws.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Draws.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Enemy.cpp.obj -c D:\\Work_place\\D++\\src\\Enemy.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Enemy.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Enemy_goblin.cpp.obj -c D:\\Work_place\\D++\\src\\Enemy_goblin.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Enemy_goblin.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Enemy_orc.cpp.obj -c D:\\Work_place\\D++\\src\\Enemy_orc.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Enemy_orc.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Enemy_skelet.cpp.obj -c D:\\Work_place\\D++\\src\\Enemy_skelet.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Enemy_skelet.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Game.cpp.obj -c D:\\Work_place\\D++\\src\\Game.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Game.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Player.cpp.obj -c D:\\Work_place\\D++\\src\\Player.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Player.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Rogue.cpp.obj -c D:\\Work_place\\D++\\src\\Rogue.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Rogue.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Warrior.cpp.obj -c D:\\Work_place\\D++\\src\\Warrior.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Warrior.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\Wizard.cpp.obj -c D:\\Work_place\\D++\\src\\Wizard.cpp",
+  "file": "D:\\Work_place\\D++\\src\\Wizard.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\item_dagger.cpp.obj -c D:\\Work_place\\D++\\src\\item_dagger.cpp",
+  "file": "D:\\Work_place\\D++\\src\\item_dagger.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\item_sword.cpp.obj -c D:\\Work_place\\D++\\src\\item_sword.cpp",
+  "file": "D:\\Work_place\\D++\\src\\item_sword.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\item_wand.cpp.obj -c D:\\Work_place\\D++\\src\\item_wand.cpp",
+  "file": "D:\\Work_place\\D++\\src\\item_wand.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\main.cpp.obj -c D:\\Work_place\\D++\\src\\main.cpp",
+  "file": "D:\\Work_place\\D++\\src\\main.cpp"
+},
+{
+  "directory": "D:/Work_place/D++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -ID:/Work_place/D++/include -g -std=gnu++17 -o CMakeFiles\\D++.dir\\src\\scene.cpp.obj -c D:\\Work_place\\D++\\src\\scene.cpp",
+  "file": "D:\\Work_place\\D++\\src\\scene.cpp"
+}
+]
