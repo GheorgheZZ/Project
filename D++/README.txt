@@ -8,4 +8,3 @@ so make sure you have the sound set to medium.
 
 There are comments in the code, but in Romanian.
 
-For compile open "D++" folder
